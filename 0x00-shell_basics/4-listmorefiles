@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la # Ensure this script ends with a new line character
