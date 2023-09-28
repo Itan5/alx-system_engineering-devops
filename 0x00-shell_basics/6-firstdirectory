@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir /tmp/my_first_directory # This script ends with a new line character

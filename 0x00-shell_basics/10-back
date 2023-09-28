@@ -1,0 +1,2 @@
+#!/bin/bash
+ cd - # This line comes before a new line character
