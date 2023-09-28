@@ -1,0 +1,2 @@
+#!/bin/bash
+chown betty hello # End this script with a new line
