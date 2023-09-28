@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod --reference=olleh hello # The script ends with a new line
