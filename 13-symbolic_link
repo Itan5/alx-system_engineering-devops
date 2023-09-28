@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /bin/ls __ls__ # This file ends with a new line character

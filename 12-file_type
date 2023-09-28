@@ -1,0 +1,2 @@
+#!/bin/bash
+file /tmp/iamafile # This script ends with a new line character

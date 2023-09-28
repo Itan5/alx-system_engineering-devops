@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -r  *.html --update . .. # This script ends with a new line

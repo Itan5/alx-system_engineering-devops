@@ -1,0 +1,2 @@
+#!/bin/bash
+ls # This line adds a newline character at the end
