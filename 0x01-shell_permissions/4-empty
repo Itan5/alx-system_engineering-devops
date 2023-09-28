@@ -1,0 +1,2 @@
+#!/bin/bash
+touch hello # Ensure this script end with a new line character
