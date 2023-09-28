@@ -1,0 +1,2 @@
+#!/bin/bash
+id -u -r # This script ends with a new line
