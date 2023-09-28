@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -av *.html --ignore-existing --update . .. # This script ends with a new line
