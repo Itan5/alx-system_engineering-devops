@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 hello # This script ends with a new line
+chmod +x hello # This script ends with a new line
