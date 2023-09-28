@@ -1,0 +1,2 @@
+#!/bin/bash
+ls . .. /boot -la # This cript ends with a new line character
