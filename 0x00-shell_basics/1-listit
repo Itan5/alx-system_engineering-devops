@@ -1,3 +1,2 @@
 #!/bin/bash
-ls
-# Ensure the script ends with a newline character
+ls # This line adds a newline character at the end
