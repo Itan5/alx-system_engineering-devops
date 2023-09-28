@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 711 . # This file ends with a new line character
+chmod -R u=rwx,g=rx,o=rx . # This file ends with a new line character
