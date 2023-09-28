@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx,g=rx,o=wx  hello # This file ends with a new line
+chmod 731 hello # This file ends with a new line
