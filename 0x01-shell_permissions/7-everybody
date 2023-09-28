@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 hello # This script ends with a new line
+chmod 640 hello # This script ends with a new line
