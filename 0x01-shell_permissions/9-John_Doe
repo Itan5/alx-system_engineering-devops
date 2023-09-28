@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 713 hello # This file ends with a new line
+chmod 753 hello # This file ends with a new line
