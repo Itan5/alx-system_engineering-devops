@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ~ # This script ends with a new line character
