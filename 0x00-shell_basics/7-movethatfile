@@ -1,2 +1,2 @@
 #!/bin/bash
-mv tmp/betty /tmp/my_first_directory # This script ends with a new line character
+mv /tmp/betty /tmp/my_first_directory # This script ends with a new line character
