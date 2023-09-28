@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=x,g=x,o=r hello # This line is followed by a new line character
+chmod u=rwx,g=rx,o=r hello # This line is followed by a new line character
