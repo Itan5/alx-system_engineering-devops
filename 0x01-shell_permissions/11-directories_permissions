@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=x,g=x,o=x . # This file ends with a new line character
+chmod -R 755 . # This file ends with a new line character
