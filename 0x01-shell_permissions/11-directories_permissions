@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec chmod +x {} \; # This file ends with a new line character
+chmod -R +x .  # Grant permission to directories only and ensure this file ends with a new line character
