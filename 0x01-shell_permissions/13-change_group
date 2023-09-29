@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp school hello # This file ends with a  new line
