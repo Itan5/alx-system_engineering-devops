@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/school # This file ends with a new line
+mkdir -p welcome/to/school
