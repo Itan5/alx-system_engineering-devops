@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u=rwx,g=rx,o=rx . # This file ends with a new line character
+find . -type d -exec chmod +x {} \; # This file ends with a new line character
