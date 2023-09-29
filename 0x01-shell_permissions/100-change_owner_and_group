@@ -1,2 +1,2 @@
 #!/bin/bash
-chown [owner][:[group]] . --vicent:staff
+chown [owner][:[group]] . --vincent:staff
