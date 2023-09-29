@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a -m -p # This script ends with a new line
