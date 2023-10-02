@@ -1,2 +1,2 @@
 #!/bin/bash
-echo One line, one word | uniq -u
+echo One line, one word> test | uniq -u | sort
