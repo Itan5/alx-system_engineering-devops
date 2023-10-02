@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello, world # This file ends with a new line 
+echo Hello, World # This file ends with a new line 
